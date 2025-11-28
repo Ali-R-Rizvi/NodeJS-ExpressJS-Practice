@@ -1,3 +1,4 @@
-﻿# NodeJS-ExpressJS-Practice
+﻿# ExpressJS-EJS-Form
 
-This repsository contain files and mini project made during the practice of Node JS and Express JS.
+This repsository contain files about Express JS Form Handling using EJS Template.
+
